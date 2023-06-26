@@ -1,0 +1,1 @@
+# mean, corr, count, max, min, std, median, describe() # These are some comman function 
